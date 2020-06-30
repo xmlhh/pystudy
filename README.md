@@ -3,6 +3,8 @@ Hi, Guys, Welcome to pystudy!
 
 You will Learn the python language here, from entry to abandonment!
 
+I will write study notes here, commit codes and add comment everyday!
+
 
 一. python基础入门（2天）
 
