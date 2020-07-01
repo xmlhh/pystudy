@@ -7,7 +7,7 @@ You will Learn the python language here, from entry to abandonment!
 
 I will keep updating study notes here, commit codes and add comment everyday!
 
-****
+
 
 ### python基础入门
 
@@ -43,7 +43,7 @@ I will keep updating study notes here, commit codes and add comment everyday!
   
   
 ## 后续计划（待定）：
-------
+
 
 ### python web开发
 
