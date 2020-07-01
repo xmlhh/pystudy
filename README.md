@@ -1,8 +1,6 @@
 pystudy
 ===========================
 
-****
-
 Hi, Guys, Welcome to pystudy!
 
 You will Learn the python language here, from entry to abandonment!
