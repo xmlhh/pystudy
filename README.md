@@ -52,6 +52,9 @@ I will keep updating study notes here, commit codes and add comment everyday!
 	3.pyhton web框架-tonado
 	...
 	
+### PyQt5界面开发
+
+
 ### python自动化并可视化
 
 	1.办公自动化，操作excel等
