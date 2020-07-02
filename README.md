@@ -3,7 +3,7 @@ pystudy
 
 Hi, Guys, Welcome to pystudy!
 
-You will Learn the python language here, from entry to abandonment!
+You will Learn the python3 language here, from entry to abandonment!
 
 I will keep updating study notes here, commit codes and add comment everyday!
 
