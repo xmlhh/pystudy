@@ -18,9 +18,17 @@ print("****************1.函数*****************")
 语法
 Python 定义函数使用 def 关键字，一般格式如下：
 
-def 函数名（参数列表）:
-    函数体
-    return [返回值]
+函数定义：define
+def 函数名():
+     函数封装的代码
+     ......
+     
+函数调用：
+     1）自身文件调用：函数名()
+     2）跨文件调用：
+         import 文件名
+         文件名.函数名()
+
 """
 
 def func1():
@@ -182,5 +190,29 @@ def func_single(str1, str2):
 
 res = func_single('hello ', 'python')
 print(res)
+
+print("%s\n" % ('-' * repeat_num))
+
+
+# 案例.打印九九乘法表
+# 转义字符：\t制表符、\n换行符
+
+# 定义函数
+def MultipleTable():
+    """九九乘法表"""
+    print('九九乘法表：')
+    row = 1
+    while row <= 9:
+        col = 1
+        while col <= row:
+            print('%d * %d = %d\t' % (col, row, col * row), end='')
+            col += 1
+        print('')
+        row += 1
+
+#调用函数
+if __name__=="__main__":
+    MultipleTable()
+
 
 print("%s\n" % ('-' * repeat_num))
