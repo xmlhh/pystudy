@@ -15,7 +15,7 @@ I will keep updating study notes here, commit codes and add comment everyday!
 	
 ### python进阶
 
-	1.python函数与面向对象：函数/数据结构/类与对象/
+	1.python函数与面向对象：函数/数据结构/类与对象/封装/继承/多态
 	2.python异常处理机制/模块和包
 		
 ### python高级
