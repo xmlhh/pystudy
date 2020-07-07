@@ -137,17 +137,58 @@ df = Diff()
 # 实例方法
 df.func(6)
 # print(df.func)
-print('==========================================')
+print("%s" % ('-' * (repeat_num - 15)))
 
 # 类方法
 df.class_func(6)
 Diff.class_func(6)
 # print(df.class_func)
-print('==========================================')
+print("%s" % ('-' * (repeat_num - 15)))
 
 # 静态方法
 df.static_func(6)
 Diff.static_func('hi')
 # print(df.static_func)
+print("%s" % ('-' * (repeat_num - 15)))
+
+
+
+print("****************5.案例*****************")
+"""
+游戏：
+1.设计一个Game类
+2.属性：
+    定义一个类属性记录游戏历史最高分 history_score
+    定义一个实例属性记录游戏玩家的姓名 name
+3.方法：
+    静态方法： 游戏帮助信息 game_help()
+    类方法： 显示历史最高分 show_history_score()
+    实例方法： 开始游戏 start_game()
+"""
+class Game(object):
+
+    history_score = 0
+
+    def __init__(self, name):
+        self.name = name
+        Game.history_score += 1024
+
+    @staticmethod
+    def game_help():
+        print('显示游戏帮助信息')
+
+    @classmethod
+    def show_history_score(cls):
+        print('历史最高分： %d' % cls.history_score)
+
+    def start_game(self):
+        print('%s 准备开始游戏' % self.name)
+
+#调用
+Game.game_help()
+Game.show_history_score()
+player = Game('olhho')
+player.start_game()
+
 
 print("%s\n" % ('-' * repeat_num))
