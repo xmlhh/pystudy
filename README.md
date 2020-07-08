@@ -71,9 +71,11 @@ I will keep updating study notes here, commit codes and add comment everyday!
 
 ### Python人工智能
 
-	1. 机器学习
-	2. 深度学习
-	3. 人脸识别实战/语音识别实战
+	1.机器学习
+	2.深度学习
+	3.计算机视觉(CV) 
+	4.自然语言(NLP)
+	5.人脸识别实战/语音识别实战
 	...
 
 ### Python黑客
