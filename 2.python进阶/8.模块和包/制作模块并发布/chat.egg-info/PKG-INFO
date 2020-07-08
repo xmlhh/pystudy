@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: chat
+Version: 1.0.1
+Summary: leon的发送和接收消息模块
+Home-page: www.baidu.com
+Author: leon
+Author-email: xxx@xxx.com
+License: UNKNOWN
+Description: 发送和接收消息模块
+Platform: any
