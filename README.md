@@ -16,16 +16,16 @@ I will keep updating study notes here, commit codes and add comment everyday!
 ### Python进阶
 
 	1.python函数与面向对象：函数/数据结构/类与对象/封装/继承/多态
-	2.python异常处理机制/模块和包
+	2.python异常处理机制/模块和包/模块制作发布、安装、卸载
 		
 ### Python高级
 
-	1.正则表达式
-	2.CGI编程
+	1.网络编程: UDP/TCP/HTTP
+	2.网络编程: POP3/SMTP收发邮件
 	3.线程/进程/协程，并发
-	4.网络编程（TCP/HTTP/FTP）
-	5.POP3/SMTP收发邮件
-	6.高级语法
+	4.高级语法
+	5.正则表达式
+	6.CGI编程
 
 ### Python爬虫及数据分析
 
