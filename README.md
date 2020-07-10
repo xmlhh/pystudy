@@ -58,11 +58,12 @@ I will keep updating study notes here, commit codes and add comment everyday!
 ### PyQt5界面开发
 
 
-### Python自动化并可视化
+### Python自动化及数据可视化
 
-	1.办公自动化，操作excel等
+	1.办公自动化，操作word/excel/ppt等
 	2.自动化运维shell
-	3.可视化展示库
+	3.自动化测试
+	4.可视化库
 	...
 
 ### Python数据分析
