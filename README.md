@@ -61,7 +61,8 @@ I will keep updating study notes here, commit codes and add comment everyday!
 ### Python自动化并可视化
 
 	1.办公自动化，操作excel等
-	2.可视化展示库
+	2.自动化运维shell
+	3.可视化展示库
 	...
 
 ### Python数据分析
